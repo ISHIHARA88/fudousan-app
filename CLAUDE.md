@@ -58,3 +58,8 @@ VITE_SUPABASE_ANON_KEY=<SupabaseダッシュボードのPublishable Key>
 - @supabase/supabase-js 2
 - react-router-dom 7（BrowserRouter）
 - Vanilla CSS（`src/index.css` に全スタイル集約）
+
+## デプロイ情報
+
+- 本番URL：https://fudousan-app.vercel.app
+- Supabaseプロジェクト名：realestate-app
